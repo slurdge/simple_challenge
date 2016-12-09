@@ -1,0 +1,22 @@
+Please help me!
+---------------
+
+Hello,
+
+I'm contacting you because I know you have programming skills. Recently, we uncovered an evil secret lab that is using a secret component and is planning to use it in an attack.
+
+We infiltrated someone within the evil organization but she got caught. Before that, we could filter out the following program (attached).
+We know it is a program that checks a password.
+
+But nobody here understands it...
+
+We also know that there is web page where you can get the secret component
+
+https://secretserver/secretlab/
+
+Our infiltrated agent confirmed that both passwords should be the same (python script and website).
+Please, please help us finding the correct password and the name of secret component!
+
+Sincerely yours,
+
+The good guys
